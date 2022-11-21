@@ -41,4 +41,5 @@
 <br>
 
 [![@akash_03_19's Holopin board](https://holopin.me/akash_03_19)](https://holopin.io/@akash_03_19)
-<h1 align="center">HACKTOBERFEST 2022 </h1>
+<h2 align="center">HACKTOBERFEST 2022 </h2><br><br>
+<h3>//Thank You For Still Being Here</h3>

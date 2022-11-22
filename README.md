@@ -4,10 +4,18 @@
 
 <img align = "right" alt ="me all day" width = "400" src = "https://www.bing.com/th/id/OGC.b8621d221ed49bf3bf0abcb7e7efee87?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1019864%2fscreenshots%2f3079099%2fcodeloop.gif&ehk=1pUq2QV7aTpjkq3DC6ewAWbipixbWFCWbd4Wso5U3WE%3d">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashsky369&label=Profile%20views&color=0e75b6&style=flat" alt="akashsky369" /> </p>
-
+<br>
+-Former 4 Star Coder At CodeChef
+<br><br>
+-Solved 230+ Questions On CodeChef
+<br><br>
+-Solved 225+ Questions On LeetCode
+<br><br>
+-Solved 130+ Questions On GeeksForGeeks
+<br><br>
 - 🌱 I’m currently learning Backend Development **Node, React, MongoDB**
 
-
+<br>
 - ⚡ Fun fact **Love Coding and Martial Arts**
 
 <br>

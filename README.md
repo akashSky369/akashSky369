@@ -11,7 +11,7 @@
 <br><br>
 -Solved 235+ Questions On LeetCode
 <br><br>
--Solved 130+ Questions On GeeksForGeeks With A Score Of 362
+-Solved 130+ Questions On GeeksForGeeks With A Score Of 374
 <br><br>
 - 🌱 I’m currently learning Backend Development **Node, React, MongoDB**
 

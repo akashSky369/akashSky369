@@ -7,11 +7,13 @@
 <br>
 -Former 4 Star Coder At CodeChef
 <br><br>
--Solved 250+ Questions On LeetCode
+-Solved 280+ Questions On LeetCode
 <br><br>
 -Solved 230+ Questions On CodeChef
 <br><br>
 -Solved 140+ Questions On GeeksForGeeks With A Score Of 392
+<br><br>
+-100th Institute Rank On GeeksForGeeks
 <br><br>
 - 🌱 I’m currently learning Backend Development **Node, React, MongoDB**
 

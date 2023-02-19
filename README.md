@@ -7,7 +7,7 @@
 <br>
 -Former 4 Star Coder At CodeChef
 <br><br>
--Solved 280+ Questions On LeetCode
+-Solved 355+ Questions On LeetCode
 <br><br>
 -Solved 230+ Questions On CodeChef
 <br><br>

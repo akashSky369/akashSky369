@@ -18,8 +18,8 @@
 - 🌱 I’m currently learning Backend Development **Node, React, MongoDB**
 
 <br>
-- ⚡ Fun fact **Love Coding and Martial Arts**
-
+- ⚡ Fun fact ** Love Coding and Martial Arts**
+- Learner!
 <br>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
